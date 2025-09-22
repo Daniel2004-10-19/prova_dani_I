@@ -1,5 +1,4 @@
 # IAW – Introducción a Markdown
-# IAW – Introducción a Markdown
 
 **Negrita**, *cursiva*, `código en línea`
 
